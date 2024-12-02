@@ -1,0 +1,175 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_MiaDrT": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_piMWAF": {
+          "type": "heading",
+          "settings": {
+            "text": "Life is Too Short to Live With Cellulite",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_TpLPPa": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Easy-to-Use cellulite massager with a <strong>30-Day Results-or-refund Guarantee<\/strong><\/p>"
+          }
+        },
+        "button_4N8EGU": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "SHOP NOW",
+            "url": "shopify:\/\/products\/cellu-anti-cellulite-massager",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_piMWAF",
+        "richtext_TpLPPa",
+        "button_4N8EGU"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/2_bb1aa40c-fd25-4e14-b425-dd50dcf85feb.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "testimonials_iCbKqi": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_pWdfzM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Amy F.",
+            "title": "The ONLY thing that worked",
+            "content": "<p>I struggled with cellulite for years, trying all sorts of creams and treatments that never worked. I felt stuck, but after using Cellu for just 3 weeks, I started seeing real results. My skin feels smoother, and the stubborn cellulite is fading away. It actually works!<\/p>"
+          }
+        },
+        "testimonial_jExRxJ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lisa M.",
+            "title": "Stubborn cellulite for years, finally GONE!",
+            "content": "<p>For years, I felt so self-conscious about my cellulite and nothing seemed to help. But after just 12 days of using Cellu, I noticed a big difference! My skin feels firmer and smoother, and I’m finally starting to feel confident again. So glad I decided to try it!<\/p>"
+          }
+        },
+        "testimonial_6JQN8M": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Maria T.",
+            "title": "It actually works! So glad I bought it",
+            "content": "<p>Cellulite and uneven skin texture were my biggest insecurities. After seeing the Cellu massager online and reading all the positive reviews, I decided to give it a shot. In just the first week, it drastically reduced my cellulite and smoothed out my skin. The hype is real—this thing actually works!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_pWdfzM",
+        "testimonial_jExRxJ",
+        "testimonial_6JQN8M"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "125,352+ women love Ascily",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. We provide free worldwide shipping. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my order?",
+            "content": "<p>It depends on where you are. Orders processed here will take 6-12 business days to arrive. Overseas deliveries can take anywhere from 7-14 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Need help with your order?",
+            "content": "<p>Our team is here to help you, get in touch with us via <a href=\"mailto:support@ascily.com\" title=\"mailto:support@ascily.com\">support@ascily.com<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Need help with your order or have a question about one of our products? Please get in touch with our support team via <a href=\"mailto:support@ascily.com\" title=\"mailto:support@ascily.com\">support@ascily.com<\/a><\/p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available everyday.",
+        "answer_time": "Average answer time: 1-2 business days.",
+        "button_text": "GET IN TOUCH",
+        "button_url": "mailto:support@ascily.com",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_MiaDrT",
+    "testimonials_iCbKqi",
+    "faq"
+  ]
+}

@@ -1,0 +1,759 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "loox_reviews_loox_rating_PregDp": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "disabled": true,
+          "settings": {
+            "contentSize": 13,
+            "pattern": "Rated [rating] / 5 based on 260+ reviews",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "#5a81d4",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "separator_rcRNzG": {
+          "type": "separator",
+          "settings": {}
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "disabled": true,
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_kYdi9F": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<p style=\"margin-bottom: 2px;\"><span style=\"text-decoration:normal\">Naturally reduce cellulite & improve skin texture!</span></p>"
+          }
+        },
+        "text_dircKk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get optimal results with our Ginger Japanese Massage Oil, crafted for use before the Cellu - Anti-Cellulite Massager to enhance glide and maximize each session’s benefits.</p>"
+          }
+        },
+        "liquid_mxc9xW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul style=\"list-style: none; padding-left: 0;\">\n    <li style=\"margin-bottom: 5px;\"><span><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"11\" height=\"11\" viewBox=\"0 0 11 11\">\n      <defs>\n        <clipPath id=\"clip-path\">\n          <rect id=\"Rectangle_189\" data-name=\"Rectangle 189\" width=\"11\" height=\"11\" transform=\"translate(4209 726)\" fill=\"#FF7E8D\"></rect>\n        </clipPath>\n      </defs>\n      <g id=\"Mask_Group_6\" data-name=\"Mask Group 6\" transform=\"translate(-4209 -726)\" clip-path=\"url(#clip-path)\">\n        <g id=\"check\" transform=\"translate(4209 727.229)\">\n          <path id=\"Path_9568\" data-name=\"Path 9568\" d=\"M5.565,10.954a.561.561,0,0,1-.794,0L1.6,7.783a.842.842,0,0,1,0-1.191l.4-.4a.842.842,0,0,1,1.191,0l1.98,1.98,5.35-5.35a.842.842,0,0,1,1.191,0l.4.4a.842.842,0,0,1,0,1.191Z\" transform=\"translate(-1.353 -2.577)\" fill=\"#5A81D4\"></path>\n        </g>\n      </g>\n    </svg></span> Enhances Glide</li>\n    \n    <li style=\"margin-bottom: 5px;\"><span><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"11\" height=\"11\" viewBox=\"0 0 11 11\">\n      <defs>\n        <clipPath id=\"clip-path\">\n          <rect id=\"Rectangle_189\" data-name=\"Rectangle 189\" width=\"11\" height=\"11\" transform=\"translate(4209 726)\" fill=\"#FF7E8D\"></rect>\n        </clipPath>\n      </defs>\n      <g id=\"Mask_Group_6\" data-name=\"Mask Group 6\" transform=\"translate(-4209 -726)\" clip-path=\"url(#clip-path)\">\n        <g id=\"check\" transform=\"translate(4209 727.229)\">\n          <path id=\"Path_9568\" data-name=\"Path 9568\" d=\"M5.565,10.954a.561.561,0,0,1-.794,0L1.6,7.783a.842.842,0,0,1,0-1.191l.4-.4a.842.842,0,0,1,1.191,0l1.98,1.98,5.35-5.35a.842.842,0,0,1,1.191,0l.4.4a.842.842,0,0,1,0,1.191Z\" transform=\"translate(-1.353 -2.577)\" fill=\"#5A81D4\"></path>\n        </g>\n      </g>\n    </svg></span> Natural Ingredients</li>\n    \n    <li style=\"margin-bottom: 5px;\"><span><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"11\" height=\"11\" viewBox=\"0 0 11 11\">\n      <defs>\n        <clipPath id=\"clip-path\">\n          <rect id=\"Rectangle_189\" data-name=\"Rectangle 189\" width=\"11\" height=\"11\" transform=\"translate(4209 726)\" fill=\"#FF7E8D\"></rect>\n        </clipPath>\n      </defs>\n      <g id=\"Mask_Group_6\" data-name=\"Mask Group 6\" transform=\"translate(-4209 -726)\" clip-path=\"url(#clip-path)\">\n        <g id=\"check\" transform=\"translate(4209 727.229)\">\n          <path id=\"Path_9568\" data-name=\"Path 9568\" d=\"M5.565,10.954a.561.561,0,0,1-.794,0L1.6,7.783a.842.842,0,0,1,0-1.191l.4-.4a.842.842,0,0,1,1.191,0l1.98,1.98,5.35-5.35a.842.842,0,0,1,1.191,0l.4.4a.842.842,0,0,1,0,1.191Z\" transform=\"translate(-1.353 -2.577)\" fill=\"#5A81D4\"></path>\n        </g>\n      </g>\n    </svg></span> Boosts Results</li>\n</ul>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "Color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "text_LfX3k6": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>🍂 Due to <strong>Fall Season Sale</strong>, we only have a few left in stock!</p>"
+          }
+        },
+        "liquid_P4eFgG": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"font-size: 14px; line-height: 1.6; padding: 10px;\">\n    <p>\n        <span style=\"font-weight: bold;\">UPDATE:</span> We're currently going viral on social media and \n        <span style=\"color: #5A81D4; font-weight: bold;\">have very limited stock remaining for our cyber monday sale!</span> \n        \n</div>"
+          }
+        },
+        "liquid_CgimnM": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div style=\"font-size: 14px; line-height: 1.6; padding: 10px;\">\n    <p>\n        <span style=\"font-weight: bold;\">UPDATE:</span> We're currently going viral on social media and \n        <span style=\"color: #5A81D4; font-weight: bold;\">have very limited stock remaining for our fall  sale!</span> \n        \n</div>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#5a81d4",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "image_J6mcKz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Upcart_Trust_Badge_1732142240622.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "offer_pxgbd7": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "center",
+            "icon_position": "aligned",
+            "icon": "picto-happy",
+            "icon_width": 20,
+            "title": "Money Back Guarantee",
+            "content": "",
+            "background": "#f2f2f2",
+            "text_color": "#1a1a1a"
+          }
+        },
+        "liquid_Eq9MaV": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!-- Einbindung der Poppins-Schriftart -->\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');\n\n  .custom-features {\n    display: flex;\n    flex-direction: column;\n    background-color: #f5f5f5; /* Angepasste Hintergrundfarbe */\n    padding: 15px;\n    border-radius: 8px;\n    font-family: 'Poppins', sans-serif;\n    font-size: 14px;\n    color: #333;\n  }\n\n  .feature-item {\n    display: flex;\n    align-items: center;\n    margin-bottom: 10px;\n  }\n\n  .feature-item:last-child {\n    margin-bottom: 0;\n  }\n\n  .feature-icon {\n    width: 20px;\n    height: 20px;\n    margin-right: 10px;\n  }\n\n  .feature-text {\n    color: #333;\n  }\n</style>\n\n<div class=\"custom-features\">\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0827/6508/7047/files/ezgif-7-3e56269d88.png?v=1728038189\" alt=\"worldwide shipping\" class=\"feature-icon\">\n    <span class=\"feature-text\">free worldwide shipping</span>\n  </div>\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0827/6508/7047/files/ezgif-7-7f81a4479e.png?v=1728038240\" alt=\"premium-quality materials\" class=\"feature-icon\">\n    <span class=\"feature-text\">premium-quality materials</span>\n  </div>\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0827/6508/7047/files/ezgif-7-ba65c6c85d.png?v=1728038296\" alt=\"100% money-back guarantee\" class=\"feature-icon\">\n    <span class=\"feature-text\">100% money-back guarantee</span>\n  </div>\n</div>"
+          }
+        },
+        "collapsible_text_9LfrLT": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "How To Use",
+            "content": "<p>To effectively use the Cellu, apply a thin layer of oil for smoother contact. Position the device on the area you wish to treat and press the button to start the suction. Hold the device in place until the skin is fully drawn in. Press the release button to free the skin. For best results, we recommend a 20-minute session per targeted area, repeating the process as necessary.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_9JBQQF": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Product specifications",
+            "content": "<p><strong>Boosts Massage Effectiveness:</strong> Prepares skin with a smooth layer, enabling better glide and deeper massager penetration.</p><p><strong>Natural Soothing Ingredients:</strong> Contains ginger and other plant extracts that nourish and calm the skin during each session.</p><p><strong>Enhanced Results:</strong> Designed to work seamlessly with the Cellu Anti-Cellulite Massager, helping to maximize cellulite reduction and skin rejuvenation.</p><p><em>*Exclusive formula, available only at Ascily.</em></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_VUkLFt": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Shipping",
+            "content": "<ul><li>Free shipping on all orders </li><li>Orders are delivered within 6-12 business days</li><li>Backed by our 30-day money back guarantee</li><li>If you're not satisfied, <a href=\"https://ascily.com/pages/contact-us\" title=\"https://ascily.com/pages/contact-us\">contact our support team</a> and we'll assist you with our easy returns process</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_text_XXqN4z": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "30 Day Risk-Free Trial",
+            "content": "<p>Your 30 day trial begins the day your order is delivered to your doorstep. If you decide it isn't a perfect fit for you within the first 30 days, we'll help you process a return and issue a full refund.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_rating_PregDp",
+        "title",
+        "badges",
+        "price",
+        "separator_rcRNzG",
+        "payment_terms",
+        "separator",
+        "liquid_kYdi9F",
+        "text_dircKk",
+        "liquid_mxc9xW",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "text_LfX3k6",
+        "liquid_P4eFgG",
+        "liquid_CgimnM",
+        "buy_buttons",
+        "image_J6mcKz",
+        "offer_pxgbd7",
+        "liquid_Eq9MaV",
+        "collapsible_text_9LfrLT",
+        "collapsible_text_9JBQQF",
+        "collapsible_text_VUkLFt",
+        "collapsible_text_XXqN4z"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "image_link_blocks_c3dthi": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_dJVBeY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_ohne_Titel_-_2024-10-30T233757.319.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_dJVBeY"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "block_size": "large",
+        "subheading": "",
+        "title": "Trusted by thousands",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "media_with_text_7gWy9r": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_zFzL43": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ezgif-3-9edb42d968.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "How it works",
+            "content": "<p>Cellu uses heat therapy and mechanical massage to effectively target stubborn cellulite. </p><p>The heat boosts circulation and relaxes tissues, while the massage promotes lymphatic drainage and breaks down fat cells, reducing cellulite for smoother, firmer skin.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#d3dff9",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_zFzL43"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "testimonials_pmErLc": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_RfkGrW": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Amanda S.",
+            "title": "",
+            "content": "<p>I’ve been using the Cellu massager on its own for months, but adding the ginger oil has taken it to the next level. It makes such a difference in the way my skin feels and looks after each session. I find that the oil helps to reduce any redness or irritation, which was a concern for me with sensitive skin. The results are better than I expected – my skin feels nourished, and the massager is now even more effective!</p>"
+          }
+        },
+        "testimonial_g9DJwp": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Emma A.",
+            "title": "",
+            "content": "<p>I’ve been using this oil with the massager every night after a shower, and I’m honestly impressed. The ginger oil smells great and makes the massager so easy to use without any irritation. I’ve tried a few oils before, but this one doesn’t feel heavy or leave a residue. After just a few weeks, I’m already seeing changes in my skin and I actually feel confident enough to wear shorts again!</p>"
+          }
+        },
+        "testimonial_tpmQKU": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Lina K.",
+            "title": "",
+            "content": "<p>The ginger oil was recommended to use with the massager, and I’m glad I added it. The oil makes it easy to move the device smoothly over my skin, and it really does enhance the experience. I’m focusing on my legs and arms, and they’re starting to look smoother. I’ve even noticed my skin feels softer throughout the day. It’s been about two weeks, and I’m already obsessed with this combo.</p>"
+          }
+        },
+        "testimonial_7wrTnd": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Julia V.",
+            "title": "",
+            "content": "<p>I’ve tried just about every product for cellulite, but this ginger oil combined with the Cellu massager has finally given me the results I want. The oil itself is super lightweight, not sticky at all, and I feel it adds a great layer of moisture during the massage. My skin feels healthier, and those stubborn spots on my thighs are definitely less noticeable now. Love this routine!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_RfkGrW",
+        "testimonial_g9DJwp",
+        "testimonial_tpmQKU",
+        "testimonial_7wrTnd"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "125,352+ women love Ascily",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "related_products_qhL867": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+          "cellu-anti-cellulite-massager"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_crMkmb": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_mq4T7g": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_f650bdf5-1b99-4e03-81f5-82a03dda754f.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "It feels amazing",
+            "content": "<p>Imagine having a personal masseuse just for your cellulite...</p><p>In essence, that's what Cellu feels like. It's a relaxing massage that targets stubborn areas, enhancing circulation and promoting firmer skin. And it feels so good that you’ll want to use it again and again.</p>"
+          }
+        },
+        "item_HDGNqm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_b773acba-9003-47f3-9a12-88bff6d9b5a3.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Ditch the ineffective solutions",
+            "content": "<p>Many traditional cellulite treatments can be harsh and may not address the underlying issues, leaving you frustrated and unsatisfied.</p><p>Instead, you could be using Cellu to target the root causes of cellulite naturally. </p>"
+          }
+        },
+        "item_zKJczC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_bb1aa40c-fd25-4e14-b425-dd50dcf85feb.png",
+            "icon": "none",
+            "icon_width": 36,
+            "title": "Try it risk-free",
+            "content": "<p>If you’re not satisfied for any reason, Cellu's 30-day money back guarantee covers you with a 100% refund.</p><p>This means you can try Cellu for a month, and if your cellulite doesn’t improve you get your money back.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_mq4T7g",
+        "item_HDGNqm",
+        "item_zKJczC"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "ss_comparison_table_2_QdTX6J": {
+      "type": "ss-comparison-table-2",
+      "blocks": {
+        "item_M8TtQK": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Easy To Use",
+            "first_icon": "yes",
+            "second_icon": "no",
+            "third_icon": "yes"
+          }
+        },
+        "item_XAJEnW": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Reduces Cellulite",
+            "first_icon": "yes",
+            "second_icon": "no",
+            "third_icon": "yes"
+          }
+        },
+        "item_zRbj3E": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Painless",
+            "first_icon": "yes",
+            "second_icon": "no",
+            "third_icon": "no"
+          }
+        },
+        "item_MaamkK": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Long-lasting results",
+            "first_icon": "yes",
+            "second_icon": "no",
+            "third_icon": "no"
+          }
+        },
+        "item_Cjq4jQ": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Premium Quality Material",
+            "first_icon": "yes",
+            "second_icon": "no",
+            "third_icon": "yes"
+          }
+        },
+        "item_VG6d6b": {
+          "type": "item",
+          "settings": {
+            "row_heading": "30-Day Risk-Free Trial",
+            "first_icon": "yes",
+            "second_icon": "no",
+            "third_icon": "no"
+          }
+        }
+      },
+      "block_order": [
+        "item_M8TtQK",
+        "item_XAJEnW",
+        "item_zRbj3E",
+        "item_MaamkK",
+        "item_Cjq4jQ",
+        "item_VG6d6b"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Why choose Ascily over cheap knock-offs:",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "heading_size": 24,
+        "heading_height": 100,
+        "heading_align": "center",
+        "table_mt": 50,
+        "table_radius": 10,
+        "table_border_thickness": 3,
+        "table_column_active": "1",
+        "table_column_active_radius": 10,
+        "first_heading": "Ascily",
+        "second_heading": "Amazon/eBay Knock-Offs",
+        "third_heading": "",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 24,
+        "table_heading_size_mobile": 10,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 20,
+        "table_heading_padding_horizontal_mobile": 4,
+        "table_heading_padding_vertical": 20,
+        "table_heading_padding_vertical_mobile": 10,
+        "table_row_padding_horizontal": 20,
+        "table_row_padding_horizontal_mobile": 4,
+        "table_row_padding_vertical": 20,
+        "table_row_padding_vertical_mobile": 10,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 26,
+        "table_row_heading_size_mobile": 10,
+        "table_row_heading_height": 100,
+        "table_row_heading_align": "center",
+        "table_icon_size": 32,
+        "table_icon_size_mobile": 20,
+        "heading_color": "#1a1a1a",
+        "table_border_color": "#d7d8d5",
+        "table_heading_color": "#1a1a1a",
+        "table_heading_active_color": "#ffffff",
+        "table_column_active_bg_color": "#5a81d4",
+        "table_row_heading_color": "#040200",
+        "table_icon_color": "#ff6900",
+        "table_icon_active_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 150,
+        "border_thickness": 0
+      }
+    },
+    "media_with_text_9mMRkP": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_fjDQWC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/7_secret_methods_to_combat_cellulite_and_achieve_radiant_skin.png",
+            "media_width": 30,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "order now and get our $24 eBook  for free",
+            "content": "<p><strong>Normally valued at $24</strong>, our combat cellulite eBook is <strong>included for free</strong> with <strong>every purchase made today.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#f2f2f2",
+            "background_gradient": "",
+            "text_color": "#262626",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_fjDQWC"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "faq_h7c44N": {
+      "type": "faq",
+      "blocks": {
+        "item_gYHkdE": {
+          "type": "item",
+          "settings": {
+            "title": "How fast will I see results?",
+            "content": "<p>You may begin to see visible improvements in the appearance of cellulite within just two weeks of regular use of the Cellu Massager. For best results, we recommend using the device consistently on the targeted areas as part of your daily routine. The speed at which you see changes can vary based on individual skin types and the initial severity of cellulite.</p>"
+          }
+        },
+        "item_Jgnqbq": {
+          "type": "item",
+          "settings": {
+            "title": "How does Cellu get rid of cellulite?",
+            "content": "<p>Cellu combats cellulite by using a combination of suction, massage, and heat therapy to stimulate circulation, encourage lymphatic drainage, and promote collagen production. This targeted approach helps break down fat deposits under the skin and improves skin elasticity. Regular use can significantly reduce the appearance of cellulite, leaving your skin smoother and firmer.</p>"
+          }
+        },
+        "item_r4Nmpb": {
+          "type": "item",
+          "settings": {
+            "title": "How do I use it?",
+            "content": "<p>To effectively use Cellu, apply a thin layer of oil for smoother contact. Position the device on the area you wish to treat and press the button to start the suction. Hold the device in place until the skin is fully drawn in. Press the release button to free the skin. For best results, we recommend a 20-minute session per targeted area, repeating the process as necessary.</p>"
+          }
+        },
+        "item_DkYNtB": {
+          "type": "item",
+          "settings": {
+            "title": "Is Cellu safe for all skin types?",
+            "content": "<p>Yes, Cellu is designed to be safe and effective for all skin types. The adjustable intensity and heating settings allow you to customize your treatment according to your comfort level. However, if you have sensitive skin or any medical conditions, we recommend consulting with a healthcare professional before use.</p>"
+          }
+        },
+        "item_fWnLP6": {
+          "type": "item",
+          "settings": {
+            "title": "Is the Cellu safe to use every day?",
+            "content": "<p>Yes, Cellu is designed for safe daily use. It's equipped with adjustable settings to ensure a comfortable experience tailored to your sensitivity and skincare needs. For best results and to avoid skin irritation, it's recommended to start with shorter sessions and gradually increase usage as your skin adapts to the treatment. Regular use can enhance blood flow, reduce cellulite, and improve skin texture.</p>"
+          }
+        },
+        "item_hKmnf6": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship worldwide?",
+            "content": "<p>Yes! We offer free worldwide shipping!</p>"
+          }
+        },
+        "item_76xaBJ": {
+          "type": "item",
+          "settings": {
+            "title": "What if it doesn't work for me?",
+            "content": "<p>Cellu comes with a 30-day money-back guarantee because we're extremely confident it'll reduce the apperance of your cellulite. If you're not fully satisfied, we'll refund your money.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_gYHkdE",
+        "item_Jgnqbq",
+        "item_r4Nmpb",
+        "item_DkYNtB",
+        "item_fWnLP6",
+        "item_hKmnf6",
+        "item_76xaBJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Here are some of our most commonly asked questions. If you're still stuck, please don't hesitate to reach out!</p>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "17301173732b35f413": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_iRbLdQ": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_iRbLdQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_link_blocks_c3dthi",
+    "media_with_text_7gWy9r",
+    "testimonials_pmErLc",
+    "related_products_qhL867",
+    "images_with_text_scrolling_crMkmb",
+    "ss_comparison_table_2_QdTX6J",
+    "media_with_text_9mMRkP",
+    "faq_h7c44N",
+    "17301173732b35f413"
+  ]
+}
